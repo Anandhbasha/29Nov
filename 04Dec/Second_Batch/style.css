@@ -15,8 +15,8 @@ Grid
     Grid template area 
     Media queries
 */
---root{
-    --primary-color:blue;
+:root{
+    --primary-color:steelblue;
 }
 
 *{
@@ -25,7 +25,7 @@ Grid
 }
 a{
     text-decoration: none;
-    color: steelblue;
+    color: var(--primary-color);
 }
 .nav{
     width: 100%;
