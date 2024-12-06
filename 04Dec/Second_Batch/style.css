@@ -11,8 +11,16 @@ Grid
     Auto fill
     Autofit
     Grid column start and end
-    Grid column or row
+    Grid row start and end
+    Grid column 
+    Grid row
+    grid-auto-rows
+    align items
+    justify items
+    justify self
+    align self 
     Grid template area 
+    Grid area
     Media queries
 */
 :root{

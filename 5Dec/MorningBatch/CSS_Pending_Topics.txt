@@ -34,11 +34,13 @@ Text
     font-family
     font-style
     font-size
+Effects
+    box-shadow
 Table
     Table border
     border-collapse
-    //Completed
     vertical-align
+//Completed
 Width
     max-width
     min-width
@@ -50,7 +52,7 @@ overflow
     overflow visible
 float
 Pseudo-element  
-    marker
+    marker(li)
     Hover over this div element to show the p element
     Before & After
     selection
@@ -60,18 +62,6 @@ Pseudo-element
     tooltip
 input[type=text]
 input[type=text]:focus
-
-Effects
-    box-shadow
-animation
-    transition-delay
-    @keyframes animationName
-
-object-fit
-Media queries
-    @media screen and (min-width: px) 
-    @media (max-width: px)
-    (min-width: px) and (max-width: px)
 flex
     order
     flex-wrap
@@ -97,4 +87,14 @@ Grid
     align self 
     Grid template area 
     Grid area
+
+animation
+    transition-delay
+    @keyframes animationName
+
+object-fit
+Media queries
+    @media screen and (min-width: px) 
+    @media (max-width: px)
+    (min-width: px) and (max-width: px)
 */

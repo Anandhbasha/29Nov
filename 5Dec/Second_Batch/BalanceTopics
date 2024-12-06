@@ -1,7 +1,5 @@
 background
     background-attachment:scroll&fixed
-    background-position:
-    object-fit
 Text
     text-decoration:overline underline & line-through
     text-transform
@@ -40,19 +38,3 @@ Flex
     flex-shrink
     flex-basis
     flex-wrap
-Grid
-    Auto
-    Minmax
-    Auto fill
-    Autofit
-    Grid column start and end
-    Grid row start and end
-    Grid column 
-    Grid row
-    grid-auto-rows
-    align items
-    justify items
-    justify self
-    align self 
-    Grid template area 
-    Grid area
